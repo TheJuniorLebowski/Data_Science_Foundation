@@ -1,1 +1,1 @@
-Data Science Study Guide and Materials
+Crowdsourced Data Science Study Guide and Materials
